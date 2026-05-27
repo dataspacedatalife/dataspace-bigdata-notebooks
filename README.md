@@ -91,3 +91,12 @@ Para manter unha contorna colaborativa e respectuosa, pedímosche que sigas esta
 A plataforma BigData do CESGA está baseada nas tecnoloxías Hadoop e Spark, podes encontrar información detallada en:
 - [Plataforma BigData CESGA](https://bigdata.cesga.gal)
 - [Curso Spark](https://github.com/javicacheiro/pyspark_course)
+
+---
+
+![OneHealth DataSpace](static/imagotipo.png "OneHealth DataSpace")
+
+# OneHealth DataSpace
+Welcome to the **OneHealth DataSpace** shared notebook repository!
+
+This space is designed for users to collaborate and share their projects and data analyses carried out using Jupyter notebooks, the repository contains [example notebooks, tutorials and use cases that will help you get started using the platform](/onehealth-es).
