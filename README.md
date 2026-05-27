@@ -45,6 +45,9 @@ La plataforma CESGA Big Data se basa en las tecnologías Hadoop y Spark; puede e
 - [Curso Spark](https://github.com/javicacheiro/pyspark_course)
 
 ---
+
+![OneHealth DataSpace](static/imagotipo.png "OneHealth DataSpace")
+
 # OneHealth DataSpace
 Dámosvos a benvida ó repositorio de notebooks compartido de **OneHealth DataSpace**!
 
