@@ -100,3 +100,10 @@ A plataforma BigData do CESGA está baseada nas tecnoloxías Hadoop e Spark, pod
 Welcome to the **OneHealth DataSpace** shared notebook repository!
 
 This space is designed for users to collaborate and share their projects and data analyses carried out using Jupyter notebooks, the repository contains [example notebooks, tutorials and use cases that will help you get started using the platform](/onehealth-es).
+
+## Purpose
+The objective of this repository is to foster collaboration, learning, and knowledge sharing related to marine science and data analysis using Jupyter notebooks.
+
+## Using Python Notebooks
+To begin using Python notebooks, the easiest way is to use the access portal:
+- [OneHealth DataSpace - Big Data Portal](https://bigdata.dataspace.cesga.es/)
