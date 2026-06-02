@@ -4,7 +4,7 @@
 Bienvenido al repositorio de notebooks de Python compartidos del Programa de OneHealth DataSpace!
 
 
-Este espacio está diseñado para que los usuarios colaboren y compartan sus proyectos y análisis de datos realizados con notebooks Jupyter, el repositorio contiene [notebooks de ejemplo, tutoriales y casos de uso que serán de ayuda al comenzar a utilizar la plataforma](/onehealth-es).  
+Este espacio está diseñado para que los usuarios colaboren y compartan sus proyectos y análisis de datos realizados con notebooks Jupyter, el repositorio contiene [notebooks de ejemplo, tutoriales y casos de uso que serán de ayuda al comenzar a utilizar la plataforma](/onehealth-notebooks/onehealth-es).  
 
 ## Propósito
 El objetivo de este repositorio es fomentar la colaboración, el aprendizaje y el intercambio de conocimientos relacionados con la ciencia marina y el análisis de datos mediante notebooks de Jupyter.
@@ -52,7 +52,7 @@ La plataforma CESGA Big Data se basa en las tecnologías Hadoop y Spark; puede e
 Dámosvos a benvida ó repositorio de notebooks compartido de **OneHealth DataSpace**!
 
 
-Este espazo está deseñado para que os usuarios poidan colaborar e compartir os seus proxectos e análises de datos realizados mediante notebooks de Jupyter, o repositorio contén [notebooks de exemplo, tutoriais e casos de uso que servirán de axuda á hora de comezar a utilizar a plataforma](/onehealth-gl).
+Este espazo está deseñado para que os usuarios poidan colaborar e compartir os seus proxectos e análises de datos realizados mediante notebooks de Jupyter, o repositorio contén [notebooks de exemplo, tutoriais e casos de uso que servirán de axuda á hora de comezar a utilizar a plataforma](/onehealth-notebooks/onehealth-gl).
 
 ## Propósito
 O propósito deste repositorio é fomentar a colaboración, a aprendizaxe e o intercambio de coñecementos relacionados coa ciencia e análise de datos mariños a través de notebooks de Jupyter.
@@ -99,7 +99,7 @@ A plataforma BigData do CESGA está baseada nas tecnoloxías Hadoop e Spark, pod
 # OneHealth DataSpace
 Welcome to the **OneHealth DataSpace** shared notebook repository!
 
-This space is designed for users to collaborate and share their projects and data analyses carried out using Jupyter notebooks, the repository contains [example notebooks, tutorials and use cases that will help you get started using the platform](/onehealth-es).
+This space is designed for users to collaborate and share their projects and data analyses carried out using Jupyter notebooks, the repository contains [example notebooks, tutorials and use cases that will help you get started using the platform](/onehealth-notebooks/onehealth-es).
 
 ## Purpose
 The objective of this repository is to foster collaboration, learning, and knowledge sharing related to marine science and data analysis using Jupyter notebooks.
